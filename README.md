@@ -44,11 +44,11 @@ pytest -v          # get it green
 - [ ] [Day 5 — Errors & context managers](day05-errors-context-managers/)
 
 ### Week 2 — Stdlib, Async, Testing
-- [ ] Day 6 — Iterators & generators *(coming soon)*
-- [ ] Day 7 — Files & CLI tools *(coming soon)*
-- [ ] Day 8 — Async fundamentals *(coming soon)*
-- [ ] Day 9 — Packaging & environments *(coming soon)*
-- [ ] Day 10 — Testing with pytest *(coming soon)*
+- [ ] [Day 6 — Iterators & generators](day06-iterators-generators/)
+- [ ] [Day 7 — Files & CLI tools](day07-files-cli-tools/)
+- [ ] [Day 8 — Async fundamentals](day08-async-fundamentals/)
+- [ ] [Day 9 — Packaging & environments](day09-packaging-environments/)
+- [ ] [Day 10 — Testing with pytest](day10-testing-with-pytest/)
 
 ### Week 3 — FastAPI & httpx
 - [ ] Day 11 — FastAPI CRUD basics *(coming soon)*

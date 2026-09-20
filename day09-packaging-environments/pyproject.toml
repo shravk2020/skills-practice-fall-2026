@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "TODO-pick-a-name"
+version = "0.1.0"
+description = "A tiny CLI that counts notes in a text file."
+requires-python = ">=3.10"
+
+[project.scripts]
+# TODO: point the `notes` command at the `main` function inside notes_cli.py.
+# Format: command-name = "module_name:function_name"
+notes = "TODO"
+
+[tool.setuptools]
+py-modules = ["notes_cli"]
