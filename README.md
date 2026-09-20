@@ -36,6 +36,17 @@ pytest -v          # get it green
 
 ## Progress
 
+### Foundations — do these before Day 1
+Week 1 jumps straight to comprehensions, decorators, and dunder methods on
+the assumption you're already fluent in the base mechanics. These four days
+cover that base layer properly: every list/dict/set/string method, and real
+class construction (instance vs. class attributes, `@classmethod`,
+`@staticmethod`, inheritance).
+- [ ] [Day 0a — Lists, deep dive](day00a-lists-deep-dive/)
+- [ ] [Day 0b — Dictionaries, deep dive](day00b-dicts-deep-dive/)
+- [ ] [Day 0c — Tuples, sets & strings](day00c-tuples-sets-strings/)
+- [ ] [Day 0d — Classes & method construction](day00d-classes-and-methods/)
+
 ### Week 1 — Python Fundamentals & Idioms
 - [ ] [Day 1 — Pythonic data structures](day01-pythonic-data-structures/)
 - [ ] [Day 2 — Functions, closures, decorators](day02-decorators/)
