@@ -51,7 +51,7 @@ pytest -v          # get it green
 - [ ] [Day 10 — Testing with pytest](day10-testing-with-pytest/)
 
 ### Week 3 — FastAPI & httpx
-- [ ] Day 11 — FastAPI CRUD basics *(coming soon)*
+- [ ] [Day 11 — FastAPI CRUD basics](day11-fastapi-crud-basics/)
 - [ ] Day 12 — Pydantic deep dive *(coming soon)*
 - [ ] Day 13 — Routers, dependencies, middleware *(coming soon)*
 - [ ] Day 14 — httpx as a client *(coming soon)*
